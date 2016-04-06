@@ -1,1 +1,2 @@
-New Test Doc 2 Added
+New Test Doc
+Some text deleted and some more added 
